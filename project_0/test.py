@@ -16,34 +16,11 @@ def random_predict(number: int = 1) -> int:
     """
     count = 0
 
-   # while True:
-
-    #count = 0    # Счётчик попыток
-    min_number = 1
-    max_number = 101
-
-    while count < 21:
-        count += 1
-        random_array = np.random.randint(1, 101, size=(1000))  # загадали список чисел
-        predict_number = (min_number + max_number) // 2
-
-        if number > predict_number:
-            min_number = predict_number    # Переназначение нижней границы поиска
-
-        elif number < predict_number:
-            max_number = predict_number    # Переназначение верхней границы поиска
-
-        else:
-            print(f'Average count of attempts: {count}.')
-            break
-
-        '''
+    while True:
         count += 1
         predict_number = np.random.randint(1, 101)  # предполагаемое число
         if number == predict_number:
             break  # выход из цикла если угадали
-        '''
-
     return count
 
 
@@ -57,7 +34,7 @@ def score_game(random_predict) -> int:
         int: среднее количество попыток
     """
     count_ls = []
-    # np.random.seed(1)  # фиксируем сид для воспроизводимости
+    #np.random.seed(1)  # фиксируем сид для воспроизводимости
     random_array = np.random.randint(1, 101, size=(1000))  # загадали список чисел
 
     for number in random_array:
@@ -67,9 +44,42 @@ def score_game(random_predict) -> int:
     print(f"Ваш алгоритм угадывает число в среднем за:{score} попыток")
     return score
 
+def game_core_v3(number: int = 1) -> int:
+    """
+    Args:
+        number (int, optional): Загаданное число. Defaults to 1.
 
-score_game(random_predict)
+    Returns:
+        int: Число попыток
+    """
+    # Ваш код начинается здесь
 
-# if __name__ == '__main__':
-# RUN
-#    score_game(random_predict)
+    count = 0   # счетчик попыток
+    prdict_number_min = 1  # нижняя граница поиска числа
+    prdict_number_max = 101  # верхняя граница поиска числа
+    
+    while True:
+        count+=1
+        
+        predict_number = (prdict_number_max + prdict_number_min) // 2
+
+        if number > predict_number:
+            prdict_number_min = predict_number  # смещение нижней границы поиска числа
+
+        elif number < predict_number:
+            prdict_number_max = predict_number  # смещение верхней границы поиска числа
+
+        else:
+            break
+
+    # Ваш код заканчивается здесь
+
+    return count
+
+
+
+
+
+if __name__ == "__main__":
+    # RUN
+    score_game(random_predict)
