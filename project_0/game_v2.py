@@ -4,7 +4,7 @@
 
 import numpy as np
 
-''' Lekov
+''' Lekov 
 def random_predict(number: int = 1) -> int:
     """Рандомно угадываем число
 
