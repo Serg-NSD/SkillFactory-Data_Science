@@ -2,9 +2,9 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/Serg-NSD/sf_data_science/tree/main/project_0/README.md#Описание-проекта)
-[ 2. Какой кейс решаем?](https://github.com/Serg-NSD/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем)
-[ 3. Краткая информация о данных](https://github.com/Serg-NSD/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)
-[ 4. Этапы работы над проектом](https://github.com/Serg-NSD/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)
+[2. Какой кейс решаем?](https://github.com/Serg-NSD/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем)
+[3. Краткая информация о данных](https://github.com/Serg-NSD/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)
+[4. Этапы работы над проектом](https://github.com/Serg-NSD/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)
 [ 5. Результат](https://github.com/Serg-NSD/sf_data_science/tree/main/project_0/README.md#Результат)
 [ 6. Выводы](https://github.com/Serg-NSD/sf_data_science/tree/main/project_0/README.md#Выводы)
 
@@ -20,8 +20,10 @@
 Нужно написать программу, которая угадывает число за минимальное число попыток
 
 **Условия соревнования:**
-- Компьютер загадывает число от 0 до 1000 и нам его нужно угадать. Под "угадать", подразумевается "написать программу, которая угадывает число".
+- Компьютер загадывает массив чисел от 1 до 1000 и нам нужно угадать каждое число в массиве. Под "угадать", подразумевается "написать программу, которая угадывает число".
+- На каждое угадывание - менее 20 попыток.
 - Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
+- В конце выводится среднее количество попыток угадать число за 1000 проходов
 
 **Метрика качества**
 Результаты оцениваются по среднему количеству попыток при 1000 повторений
@@ -33,19 +35,19 @@
 ### Краткая информация о данных
 ....
 
-:arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 
 ### Этапы работы над проектом
 ....
 
-:arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 
 ### Результаты:
 ....
 
-:arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 
 ### Выводы
