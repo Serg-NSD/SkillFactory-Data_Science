@@ -51,4 +51,4 @@
 ### Выводы
 ....
 
-:arrow_up:[к оглавлению](https://github.com/Serg_NSD/sf_data_science/tree/main/project_1/readme.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Оглавление)
