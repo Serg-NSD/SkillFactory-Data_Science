@@ -29,7 +29,7 @@
 * Учимся писать хороший код на Python.
 * Учимся работать с IDE.
 * Учимся работать с GitHub.
-* Представлен шаблон baseline(https://colab.research.google.com/drive/1k2WZD8PWWOYFHrpAJoB2eZw06ID7KnFA) из скринкаста.
+* Представлен шаблон [baseline](https://colab.research.google.com/drive/1k2WZD8PWWOYFHrpAJoB2eZw06ID7KnFA) из скринкаста.
 
 
 ### Краткая информация о данных
