@@ -1,6 +1,5 @@
 """Игра 'Угадай число'.
 Компьютер загадывает число и затем угадывает его менее, чем за 20 попыток.
-
 """
 
 import numpy as np
@@ -8,7 +7,7 @@ import numpy as np
 
 def random_predict(number: int = 1) -> int:
     """Рандомно угадываем числа, соблюдая условие:
-       попыток угадывания дол;но быть меньше 20.
+       попыток угадывания должно быть меньше 20.
 
     Args:
         number (int, optional): Загаданное число. Defaults to 1.
@@ -40,7 +39,7 @@ def game_score(random_predict) -> int:
         random_predict ([type]): Функция угадывания
 
     Returns:
-        int: Cреднее количество попыток
+        str: Cреднее количество попыток
     """
     count_ls = []
     random_array = np.random.randint(1, 101, size=(1000))
