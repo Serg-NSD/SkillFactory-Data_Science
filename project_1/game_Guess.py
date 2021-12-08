@@ -39,7 +39,7 @@ def game_score(random_predict) -> int:
         random_predict ([type]): Функция угадывания
 
     Returns:
-        str: Cреднее количество попыток
+        result: Cреднее количество попыток
     """
     count_ls = []
     random_array = np.random.randint(1, 101, size=(1000))
