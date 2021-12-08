@@ -5,45 +5,51 @@
 
 import numpy as np
 
-number = np.random.randint(1, 101)    # Компьютер загадывает число от 1 до 100
-print("\nЗагаданное число: ", number)
 
-
-def game_score(number: int = 1) -> int:
-    """
+def random_predict(number: int = 1) -> int:
+    """Рандомно угадываем числа, соблюдая условие:
+       попыток угадывания дол;но быть меньше 20.
 
     Args:
-        number (int, optional): Hidden the number. Defaults to 1.
+        number (int, optional): Загаданное число. Defaults to 1.
 
     Returns:
-        int: Count of attempts.
+        int: Число попыток.
     """
-
-    count = 0    # Счётчик попыток
-    min_number = 1    # Нижняя граница поиска
-    max_number = 101    # Верхняя граница поиска
-    count_ls = []    # Список для сохранения количества попыток
-
+    count = 0
+    max_n = 101
+    min_n = 1
     while True:
         count += 1
-        # Случайный список из 1000 чисел с учётом границ
-        random_array = np.random.randint(min_number, max_number, size=(1000))
-        predict_number = (min_number + max_number) // 2
-        print(f'Попытка №: {count}   Число {predict_number}')
-        count_ls.append(count)
+        predict_number = (min_n + max_n) // 2
         if number > predict_number:
-            min_number = predict_number    # Переназначение нижней границы поиска
+            min_n = predict_number    # Переназначение нижней границы поиска
 
         elif number < predict_number:
-            max_number = predict_number    # Переназначение верхней границы поиска
+            max_n = predict_number    # Переназначение верхней границы поиска
 
         else:
-            score = int(np.mean(count_ls))
-            print(f'Количество попыток: {count}')
-            print(f'Среднее количество попыток: {score}\n')
-            break
-
-    return count
+            print(f"Загаданное число: {number}  Угадано на {count} попытке")
+            return count
 
 
-game_score(number)
+def game_score(random_predict) -> int:
+    """Алгоритм вычисляет среднее количество попыток угадать число за 1000 проходов
+
+    Args:
+        random_predict ([type]): Функция угадывания
+
+    Returns:
+        int: Cреднее количество попыток
+    """
+    count_ls = []
+    random_array = np.random.randint(1, 101, size=(1000))
+    for number in random_array:
+        count_ls.append(random_predict(number))
+    score = int(np.mean(count_ls))
+    result = f"Среднее количество попыток угадать число за 1000 проходов: {score}"
+    return result
+
+
+if __name__ == "__main__":
+    game_score(random_predict)
