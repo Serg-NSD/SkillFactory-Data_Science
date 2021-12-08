@@ -22,10 +22,10 @@ def random_predict(number: int = 1) -> int:
         count += 1
         predict_number = (min_n + max_n) // 2
         if number > predict_number:
-            min_n = predict_number    # Переназначение нижней границы поиска
+            min_n = predict_number    # Переназначение нижней границы поиска  
 
         elif number < predict_number:
-            max_n = predict_number    # Переназначение верхней границы поиска
+            max_n = predict_number    # Переназначение верхней границы поиска  
 
         else:
             print(f"Загаданное число: {number}  Угадано на {count} попытке")
