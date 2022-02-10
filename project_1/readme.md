@@ -1,22 +1,10 @@
 ## Оглавление
-<a href=\"https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Описание-проекта\" target=\"_blank\"><span class=\"link\"><font color=darkgreen><ins><b>1. Описание проекта</b><ins></font></span></a>
-<a href=\"https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Какой-кейс-решаем\" target=\"_blank\"><span class=\"link\"><font color=darkgreen><ins><b>2. Какой кейс решаем</b><ins></font></span></a>
-<a href=\"https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Краткая-информация-о-данных\" target=\"_blank\"><span class=\"link\"><font color=darkgreen><ins><b>3. Краткая информация о данных</b><ins></font></span></a>
-<a href=\"https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Этапы-работы-над-проектом\" target=\"_blank\"><span class=\"link\"><font color=darkgreen><ins><b>4. Этапы работы над проектом</b><ins></font></span></a>
-<a href=\"https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Результат\" target=\"_blank\"><span class=\"link\"><font color=darkgreen><ins><b>5. Результат</b><ins></font></span></a>
-<a href=\"https://drive.google.com/file/d/1dJH_NI1UUW10aulMQdOhnz8r7zmUYivM/view?usp=sharing\" target=\"_blank\"><span class=\"link\"><font color=darkgreen><ins><b>6. Ссылка на датасет</b><ins></font></span></a>
-
-[1. Описание проекта](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Описание-проекта)  
+[1. Постановка проекта](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Постановка-проекта)  
 [2. Какой кейс решаем?](https://github.com/Serg-NSD/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/Serg-NSD/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/Serg-NSD/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)  
 [5. Результат](https://github.com/Serg-NSD/sf_data_science/tree/main/project_0/README.md#Результат)  
 [6. Ссылка на датасет](https://drive.google.com/file/d/1dJH_NI1UUW10aulMQdOhnz8r7zmUYivM/view?usp=sharing/readme.md#Датасет)
-  
-    
-    
-    
-    
 ### Постановка проекта
 Есть такая компания ─ HeadHunter. Занимается она тем, что по заявкам соискателей, одновременно учитывая пожелания работодателей, подбирает людям наиболее подходящие вакансии на работу. Но вот часть соискателей не всегда верно вносит свои данные в базу или же вовсе пропускает пункт опроса. Когда таких погрешностей набегает десятки тысяч, то автоматическую модель построить невозможно. Слишком много неинформативных данных, мусора. В этом проекте была предпринята попытка проанализировать датасет от компании HeadHunter.
 :arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Оглавление)
