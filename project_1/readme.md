@@ -1,6 +1,3 @@
-    "<center> <img src = https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg alt=\"drawing\" style=\"width:400px;\"></center>\n",
-    "# <center> Проект: Анализ вакансий на hh.ru </center>\n",
-    "\n",
     "## Оглавление\n",
     "\n",
     "<a href=\"https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Описание-проекта\" target=\"_blank\"><span class=\"link\"><font color=darkgreen><ins><b>1. Описание проекта</b><ins></font></span></a>  \n",
