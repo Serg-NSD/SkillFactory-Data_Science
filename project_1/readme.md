@@ -6,12 +6,13 @@
 <a href=\"https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Результат\" target=\"_blank\"><span class=\"link\"><font color=darkgreen><ins><b>5. Результат</b><ins></font></span></a>
 <a href=\"https://drive.google.com/file/d/1dJH_NI1UUW10aulMQdOhnz8r7zmUYivM/view?usp=sharing\" target=\"_blank\"><span class=\"link\"><font color=darkgreen><ins><b>6. Ссылка на датасет</b><ins></font></span></a>
 
-[1. Описание проекта](https://github.com/Serg-NSD/sf_data_science/tree/main/project_0/README.md#Описание-проекта)
-[2. Какой кейс решаем?](https://github.com/Serg-NSD/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем)
-[3. Краткая информация о данных](https://github.com/Serg-NSD/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)
-[4. Этапы работы над проектом](https://github.com/Serg-NSD/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)
-[5. Результат](https://github.com/Serg-NSD/sf_data_science/tree/main/project_0/README.md#Результат)
-[6. Ссылка на датасет](\"https://drive.google.com/file/d/1dJH_NI1UUW10aulMQdOhnz8r7zmUYivM/view?usp=sharing\README.md#Ссылка на датасет)    
+[1. Описание проекта](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Serg-NSD/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Serg-NSD/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Serg-NSD/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Serg-NSD/sf_data_science/tree/main/project_0/README.md#Результат)  
+[6. Ссылка на датасет](https://drive.google.com/file/d/1dJH_NI1UUW10aulMQdOhnz8r7zmUYivM/view?usp=sharing/readme.md#Датасет)
+  
     
     
     
@@ -39,4 +40,4 @@
 Отличная практика для меня и в повышении навыка программирования на Python, и в первых шагах анализа.
 "Также весьма многое узнал о визуализации. Уже есть опыт, есть свои "секреты".
 :arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Оглавление)
-:arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Оглавление)
+:arrow_up:[Ссылка на датасет](https://drive.google.com/file/d/1dJH_NI1UUW10aulMQdOhnz8r7zmUYivM/view?usp=sharing/readme.md#Датасет)
