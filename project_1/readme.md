@@ -1,8 +1,3 @@
-
-
-<img src = https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg alt=\"drawing\" style=\"width:400px;\"></center>\n",
-    "# <center> Проект: Анализ вакансий на hh.ru
-
 ![Image alt](https://github.com/{Serg-NSD}/{repository}/raw/{branch}/{path}/image.png)
 
 ## Оглавление
