@@ -1,5 +1,3 @@
-![Image alt](https://github.com/{Serg-NSD}/{repository}/raw/{branch}/{path}/image.png)
-
 ## Оглавление
 [1. Постановка проекта](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Постановка-проекта)  
 [2. Способ решения вопроса](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Способ-решения-вопроса)  
