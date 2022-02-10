@@ -1,0 +1,79 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<center> <img src = https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg alt=\"drawing\" style=\"width:400px;\"></center>\n",
+    "# <center> Проект: Анализ вакансий на hh.ru </center>\n",
+    "\n",
+    "## Оглавление\n",
+    "\n",
+    "<a href=\"https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Описание-проекта\" target=\"_blank\"><span class=\"link\"><font color=darkgreen><ins><b>1. Описание проекта</b><ins></font></span></a>  \n",
+    "  \n",
+    "<a href=\"https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Какой-кейс-решаем\" target=\"_blank\"><span class=\"link\"><font color=darkgreen><ins><b>2. Какой кейс решаем</b><ins></font></span></a>  \n",
+    "  \n",
+    "<a href=\"https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Краткая-информация-о-данных\" target=\"_blank\"><span class=\"link\"><font color=darkgreen><ins><b>3. Краткая информация о данных</b><ins></font></span></a>  \n",
+    "  \n",
+    "<a href=\"https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Этапы-работы-над-проектом\" target=\"_blank\"><span class=\"link\"><font color=darkgreen><ins><b>4. Этапы работы над проектом</b><ins></font></span></a>  \n",
+    "  \n",
+    "<a href=\"https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Результат\" target=\"_blank\"><span class=\"link\"><font color=darkgreen><ins><b>5. Результат</b><ins></font></span></a>  \n",
+    "\n",
+    "<a href=\"https://drive.google.com/file/d/1dJH_NI1UUW10aulMQdOhnz8r7zmUYivM/view?usp=sharing\" target=\"_blank\"><span class=\"link\"><font color=darkgreen><ins><b>6. Ссылка на датасет</b><ins></font></span></a>  \n",
+    "\n",
+    "### Постановка проекта\n",
+    "Есть такая компания ─ HeadHunter. Занимается она тем, что по заявкам соискателей, одновременно учитывая пожелания работодателей, подбирает людям наиболее подходящие вакансии на работу. Но вот часть соискателей не всегда верно вносит свои данные в базу или же вовсе пропускает пункт опроса. Когда таких погрешностей набегает десятки тысяч, то автоматическую модель построить невозможно. Слишком много неинформативных данных, мусора. В этом проекте была предпринята попытка проанализировать датасет от компании HeadHunter.\n",
+    "\n",
+    ":arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Оглавление)\n",
+    "  \n",
+    "### Способ решения вопроса\n",
+    "Будет проведён тщательный анализ структуры данных, их преобразование в удобные для разведывательного анализа и очистки форматы. Последующее исследование зависимости одних данных от других и их сопоставление. Для лучшего понимания вопроса ─ визуализация этих сопоставлений, так как диаграммы очень помогают при анализе. Данные обязательно будут очищены от различных несостыковок в разумных пределах.  \n",
+    "  \n",
+    "**<ins>Условия задания:</ins>**  \n",
+    "* Проанализировать и обработать базу данных резюме с сайта HeadHunter hh.ru.\n",
+    "  \n",
+    "**<ins>Что практикуем</ins>**  \n",
+    "* Первая серъёзная работа с большим датасетом.\n",
+    "* Практика и закрепление навыков программирования и анализа.\n",
+    "  \n",
+    "### Краткая информация о данных\n",
+    "Предоставлен датасет в виде файла .csv. Размер ─ около 450 МБ. Содержит данные о соискателях работы.\n",
+    "\n",
+    ":arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Оглавление)\n",
+    "\n",
+    "### Этапы работы над проектом\n",
+    "1. Базовый анализ структуры данных\n",
+    "2. Преобразование данных\n",
+    "3. Разведывательный анализ, исследование\n",
+    "4. Очистка данных\n",
+    "\n",
+    ":arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Оглавление)\n",
+    "\n",
+    "### Результаты:\n",
+    "Отличная практика для меня и в повышении навыка программирования на Python, и в первых шагах анализа.  \n",
+    "Также весьма многое узнал о визуализации. Уже есть опыт, есть свои \"секреты\".\n",
+    "\n",
+    ":arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Оглавление)\n",
+    "\n",
+    ":arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Оглавление)"
+   ]
+  }
+ ],
+ "metadata": {
+  "interpreter": {
+   "hash": "ce39921eb3b8aae76db95e228dae62a5db24b5df8880dfefbe9726a3ca2179f0"
+  },
+  "kernelspec": {
+   "display_name": "Python 3.10.0 64-bit",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "name": "python",
+   "version": "3.10.0"
+  },
+  "orig_nbformat": 4
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
