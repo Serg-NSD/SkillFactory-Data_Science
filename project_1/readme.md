@@ -3,7 +3,7 @@
 [2. Способ решения вопроса](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Способ-решения-вопроса)  
 [3. Краткая информация о данных](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Этапы-работы-над-проектом)  
-[5. Результаты](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Результаты:)  
+[5. Результаты](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Результаты)  
 [6. Ссылка на датасет](https://drive.google.com/file/d/1dJH_NI1UUW10aulMQdOhnz8r7zmUYivM/view?usp=sharing/readme.md#Датасет)
 ### Постановка проекта
 Есть такая компания ─ HeadHunter. Занимается она тем, что по заявкам соискателей, одновременно учитывая пожелания работодателей, подбирает людям наиболее подходящие вакансии на работу. Но вот часть соискателей не всегда верно вносит свои данные в базу или же вовсе пропускает пункт опроса. Когда таких погрешностей набегает десятки тысяч, то автоматическую модель построить невозможно. Слишком много неинформативных данных, мусора. В этом проекте была предпринята попытка проанализировать датасет от компании HeadHunter.
@@ -24,7 +24,7 @@
 3. Разведывательный анализ, исследование
 4. Очистка данных
 :arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Оглавление)
-### Результаты:
+### Результаты
 Отличная практика для меня и в повышении навыка программирования на Python, и в первых шагах анализа.
 "Также весьма многое узнал о визуализации. Уже есть опыт, есть свои "секреты".
 :arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Оглавление)
