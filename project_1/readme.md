@@ -1,9 +1,3 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
     "<center> <img src = https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg alt=\"drawing\" style=\"width:400px;\"></center>\n",
     "# <center> Проект: Анализ вакансий на hh.ru </center>\n",
     "\n",
@@ -56,24 +50,3 @@
     ":arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Оглавление)\n",
     "\n",
     ":arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Оглавление)"
-   ]
-  }
- ],
- "metadata": {
-  "interpreter": {
-   "hash": "ce39921eb3b8aae76db95e228dae62a5db24b5df8880dfefbe9726a3ca2179f0"
-  },
-  "kernelspec": {
-   "display_name": "Python 3.10.0 64-bit",
-   "language": "python",
-   "name": "python3"
-  },
-  "language_info": {
-   "name": "python",
-   "version": "3.10.0"
-  },
-  "orig_nbformat": 4
- },
- "nbformat": 4,
- "nbformat_minor": 2
-}
