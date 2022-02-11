@@ -46,3 +46,4 @@
 "Также весьма многое узнал о визуализации. Уже есть опыт, есть свои "секреты".
   
 :arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Оглавление)
+  
