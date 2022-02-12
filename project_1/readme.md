@@ -1,3 +1,5 @@
+![img](https://github.com/Serg-NSD/sf_data_science/blob/main/project_1/pict/pict-01.1.png?raw=true)
+
 ## Оглавление
 [1. Постановка проекта](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Постановка-проекта)  
 [2. Способ решения вопроса](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Способ-решения-вопроса)  
