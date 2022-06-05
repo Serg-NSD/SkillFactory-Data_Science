@@ -1,5 +1,6 @@
+<center>
 ![img](https://github.com/Serg-NSD/sf_data_science/blob/main/Booking%20reviews/Booking.jpg)
-
+</center>
 ## Оглавление
 [1. Постановка проекта](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Постановка-проекта)  
 [2. Способ решения вопроса](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Способ-решения-вопроса)  
