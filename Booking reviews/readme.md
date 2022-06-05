@@ -4,7 +4,7 @@
 
 
 ## Оглавление
-[1. Постановка проекта](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Постановка-проекта)  
+[1. Постановка проекта](https://github.com/Serg-NSD/sf_data_science/tree/main/Booking reviews/readme.md#Постановка-проекта)  
 [2. Способ решения вопроса](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Способ-решения-вопроса)  
 [3. Краткая информация о данных](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Этапы-работы-над-проектом)  
