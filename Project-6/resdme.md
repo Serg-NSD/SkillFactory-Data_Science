@@ -1,4 +1,4 @@
-![img](https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg)
+<center> <img src = https://salesupnow.ru/storage/app/media/pipeople.png alt="drawing" style="width:400px;"></center>
 
 ## Оглавление
 [1. Постановка проекта](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Постановка-проекта)  
