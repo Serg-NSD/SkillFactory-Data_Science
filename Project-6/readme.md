@@ -1,7 +1,7 @@
 <p align='center'><img src = https://salesupnow.ru/storage/app/media/pipeople.png alt="drawing" style="width:300px;"></p>
 
 ## Оглавление
-[1. Постановка проекта](https://github.com/Serg-NSD/SkillFactory-Data_Science/blob/main/Project-6/resdme.md#Постановка-проекта)  
+[1. Постановка проекта](https://github.com/Serg-NSD/SkillFactory-Data_Science/blob/main/Project-6/readme.md#Постановка-проекта)  
 [2. Способ решения вопроса](https://github.com/Serg-NSD/sf_data_/tree/main/project_1/readme.md#Способ-решения-вопроса)  
 [3. Краткая информация о данных](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Этапы-работы-над-проектом)  
@@ -16,7 +16,7 @@
 
 Необходимо решить бизнес-задачу в области маркетинга, в которой нужно будет произвести сегментацию клиентов на основе их покупательской способности, частоты совершения заказов и срока давности последнего заказа. Также предстоит определить оптимальную стратегию взаимодействия с ними.
   
-:arrow_up:[к оглавлению](https://github.com/Serg-NSD/SkillFactory-Data_Science/blob/main/Project-6/resdme.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Serg-NSD/SkillFactory-Data_Science/blob/main/Project-6/readme.md#Оглавление)
   
 ### Способ решения вопроса
 
