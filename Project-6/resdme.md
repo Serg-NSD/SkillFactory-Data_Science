@@ -1,4 +1,11 @@
-<center> <img src = https://salesupnow.ru/storage/app/media/pipeople.png alt="drawing" style="width:400px;"></center>
+<p align='center'><img src = https://salesupnow.ru/storage/app/media/pipeople.png alt="drawing" style="width:400px;"></p>
+
+<!-- <p align="center">
+
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+
+</p> -->
+
 
 ## Оглавление
 [1. Постановка проекта](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Постановка-проекта)  
