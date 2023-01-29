@@ -1,15 +1,8 @@
 <p align='center'><img src = https://salesupnow.ru/storage/app/media/pipeople.png alt="drawing" style="width:400px;"></p>
 
-<!-- <p align="center">
-
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
-
-</p> -->
-
-
 ## Оглавление
-[1. Постановка проекта](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Постановка-проекта)  
-[2. Способ решения вопроса](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Способ-решения-вопроса)  
+[1. Постановка проекта](https://github.com/Serg-NSD/SkillFactory-Data_Science/readme.md#Постановка-проекта)  
+[2. Способ решения вопроса](https://github.com/Serg-NSD/sf_data_/tree/main/project_1/readme.md#Способ-решения-вопроса)  
 [3. Краткая информация о данных](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Этапы-работы-над-проектом)  
 [5. Результаты](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Результаты)  
