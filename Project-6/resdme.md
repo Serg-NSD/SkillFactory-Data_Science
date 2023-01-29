@@ -1,7 +1,7 @@
 <p align='center'><img src = https://salesupnow.ru/storage/app/media/pipeople.png alt="drawing" style="width:400px;"></p>
 
 ## Оглавление
-[1. Постановка проекта](https://github.com/Serg-NSD/SkillFactory-Data_Science/readme.md#Постановка-проекта)  
+[1. Постановка проекта](https://github.com/Serg-NSD/SkillFactory-Data_Science/blob/main/Project-6/resdme.md#Постановка-проекта)  
 [2. Способ решения вопроса](https://github.com/Serg-NSD/sf_data_/tree/main/project_1/readme.md#Способ-решения-вопроса)  
 [3. Краткая информация о данных](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Этапы-работы-над-проектом)  
