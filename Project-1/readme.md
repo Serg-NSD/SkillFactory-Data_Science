@@ -1,4 +1,8 @@
-![img](https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg)
+
+<p align="center"><img src="https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg" height="360"/></p>
+
+# Проект «Анализ резюме из HeadHunter»
+
 
 ## Оглавление
 [1. Постановка проекта](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Постановка-проекта)  
@@ -8,10 +12,7 @@
 [5. Результаты](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Результаты)  
 [6. Ссылка на датасет](https://drive.google.com/file/d/1dJH_NI1UUW10aulMQdOhnz8r7zmUYivM/view?usp=sharing/readme.md#Датасет)
 
-# Проект «Анализ резюме из HeadHunter»
-
 ### Постановка проекта
-  
 Есть такая компания ─ HeadHunter. Занимается она тем, что по заявкам соискателей, одновременно учитывая пожелания работодателей, подбирает людям наиболее подходящие вакансии на работу. Но вот часть соискателей не всегда верно вносит свои данные в базу или же вовсе пропускает пункт опроса. Когда таких погрешностей набегает десятки тысяч, то автоматическую модель построить невозможно. Слишком много неинформативных данных, мусора. В этом проекте была предпринята попытка проанализировать датасет от компании HeadHunter.
   
 :arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Оглавление)
