@@ -2,6 +2,8 @@
 ![img](https://github.com/Serg-NSD/sf_data_science/blob/main/Booking_reviews/Booking.jpg)
 
 
+![img](https://github.com/Serg-NSD/SkillFactory-Data_Science/blob/main/Booking.jpg)
+
 
 ## Оглавление
 [1. Постановка проекта](https://github.com/Serg-NSD/sf_data_science/tree/main/Booking_reviews/readme.md#Постановка-проекта)  
