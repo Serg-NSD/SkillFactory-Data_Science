@@ -14,5 +14,5 @@
   
 Полное решение приведено в файле 
 
-[SQL_Job analysis.pdf](Project-2/SQL_Job-analysis.pdf)
+[SQL_Job analysis.pdf](Project-2/SQL_Job_analysis.pdf)
   
