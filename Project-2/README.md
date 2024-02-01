@@ -9,10 +9,8 @@
   
 ### Способ решения вопроса
 
-Для решения задачи использовался PostgreSQL
-Будет проведён тщательный анализ структуры данных, их преобразование в удобные для разведывательного анализа и очистки форматы.
+Для решения задачи использовался $\color{#9FF464} postgreSQL$.  
+Был проведён тщательный анализ структуры данных, их преобразование в удобные для разведывательного анализа и очистки форматы.
   
-Полное решение приведено в файле 
-
-[SQL_Job analysis.pdf](https://github.com/Serg-NSD/SkillFactory-Data_Science/tree/main/Project-2/SQL_Job_analysis.pdf)
+Полное решение приведено в файле [SQL_Job analysis.pdf](https://github.com/Serg-NSD/SkillFactory-Data_Science/tree/main/Project-2/SQL_Job_analysis.pdf)
   
