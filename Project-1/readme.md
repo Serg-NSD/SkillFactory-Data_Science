@@ -3,7 +3,6 @@
 
 # Проект «Анализ резюме из HeadHunter»
 
-
 ## Оглавление
 
 [Постановка проекта](https://github.com/Serg-NSD/SkillFactory-Data_Science/tree/main/Project-1/readme.md#Постановка-проекта)  
@@ -48,7 +47,4 @@
   
 ### Результаты
   
-Отличная практика для меня и в повышении навыка программирования на Python, и в первых шагах анализа.
-  
-:arrow_up:[к оглавлению](https://github.com//Serg-NSD/SkillFactory-Data_Science/tree/main/Project-1/readme.md#Оглавление)
-  
+Отличная практика для меня и в повышении навыка программирования на Python, и в первых шагах анализа.  
