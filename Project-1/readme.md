@@ -7,16 +7,16 @@
 ## Оглавление
 
 [Постановка проекта](https://github.com/Serg-NSD/SkillFactory-Data_Science/tree/main/Project-1/readme.md#Постановка-проекта)  
-[Способ решения вопроса](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Способ-решения-вопроса)  
-[Краткая информация о данных](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Краткая-информация-о-данных)  
-[Этапы работы над проектом](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Этапы-работы-над-проектом)  
-[Результаты](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Результаты)  
+[Способ решения вопроса](https://github.com/Serg-NSD//SkillFactory-Data_Science/tree/main/Project-1/readme.md#Способ-решения-вопроса)  
+[Краткая информация о данных](https://github.com/Serg-NSD//SkillFactory-Data_Science/tree/main/Project-1/readme.md#Краткая-информация-о-данных)  
+[Этапы работы над проектом](https://github.com/Serg-NSD//SkillFactory-Data_Science/tree/main/Project-1/readme.md#Этапы-работы-над-проектом)  
+[Результаты](https://github.com/Serg-NSD//SkillFactory-Data_Science/tree/main/Project-1/readme.md#Результаты)  
 [Ссылка на датасет](https://drive.google.com/file/d/1dJH_NI1UUW10aulMQdOhnz8r7zmUYivM/view?usp=sharing/readme.md#Датасет)
 
 ### Постановка проекта
 Есть такая компания ─ HeadHunter. Занимается она тем, что по заявкам соискателей, одновременно учитывая пожелания работодателей, подбирает людям наиболее подходящие вакансии на работу. Но вот часть соискателей не всегда верно вносит свои данные в базу или же вовсе пропускает пункт опроса. Когда таких погрешностей набегает десятки тысяч, то автоматическую модель построить невозможно. Слишком много неинформативных данных, мусора. В этом проекте была предпринята попытка проанализировать датасет от компании HeadHunter.
   
-:arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/Project-1/readme.md#Оглавление)
   
 ### Способ решения вопроса
 
@@ -35,7 +35,7 @@
   
 Предоставлен датасет в виде файла .csv. Размер ─ около 450 МБ. Содержит данные о соискателях работы.
   
-:arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Serg-NSD/SkillFactory-Data_Science/tree/main/Project-1/readme.md#Оглавление)
   
 ### Этапы работы над проектом
   
@@ -44,11 +44,11 @@
 3. Разведывательный анализ, исследование
 4. Очистка данных
   
-:arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com//Serg-NSD/SkillFactory-Data_Science/tree/main/Project-1/readme.md#Оглавление)
   
 ### Результаты
   
 Отличная практика для меня и в повышении навыка программирования на Python, и в первых шагах анализа.
   
-:arrow_up:[к оглавлению](https://github.com/Serg-NSD/sf_data_science/tree/main/project_1/readme.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com//Serg-NSD/SkillFactory-Data_Science/tree/main/Project-1/readme.md#Оглавление)
   
