@@ -1,7 +1,7 @@
 ![img](https://github.com/Serg-NSD/SkillFactory-Data_Science/blob/5283d3d5bdb7e89c981d7c80b3628d26d4e9f413/Project-3/Booking.jpg)
 
 ## Оглавление
-[1. Постановка проекта](https://github.com/Serg-NSD/sf_data_science/tree/main/Booking_reviews/readme.md#Постановка-проекта)  
+[1. Постановка проекта](https://github.com/Serg-NSD/SkillFactory-Data_Science/blob/5283d3d5bdb7e89c981d7c80b3628d26d4e9f413/Project-3/readme.md#Постановка-проекта)  
 [2. Способ решения вопроса](https://github.com/Serg-NSD/sf_data_science/tree/main/Booking_reviews/readme.md#Способ-решения-вопроса)  
 [3. Краткая информация о данных](https://github.com/Serg-NSD/sf_data_science/tree/main/Booking_reviews/readme.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/Serg-NSD/sf_data_science/tree/main/Booking_reviews/readme.md#Этапы-работы-над-проектом)  
