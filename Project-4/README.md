@@ -3,14 +3,9 @@
 <h1 align='center' style='color:red'> Проект «Машинное обучение в банковской отрасли»</h1>
 
 ## Оглавление
-[1. Постановка проекта](https://github.com/Serg-NSD/SkillFactory-Data_Science/blob/main/Project-6/readme.md#Постановка-проекта)  
-[2. Способ решения вопроса](https://github.com/Serg-NSD/SkillFactory-Data_Science/blob/main/Project-6/readme.md#Способ-решения-вопроса)  
-[3. Краткая информация о данных](https://github.com/Serg-NSD/SkillFactory-Data_Science/blob/main/Project-6/readme.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/Serg-NSD/SkillFactory-Data_Science/blob/main/Project-6/readme.md#Этапы-работы-над-проектом)  
-[5. Организационная информация](https://github.com/Serg-NSD/SkillFactory-Data_Science/blob/main/Project-6/readme.md#Организационная-информация)  
-[6. Ссылка на датасет](https://drive.google.com/file/d/1Axlknf1Rd6T6UFRzWWZA_gBbfN2g9r3v/view#Датасет)
-
-
+[1. Постановка задачи проекта](https://github.com/Serg-NSD/SkillFactory-Data_Science/blob/main/Project-4/readme.md#Постановка-задачи-проекта)  
+[2. Способ решения](https://github.com/Serg-NSD/SkillFactory-Data_Science/blob/main/Project-4/readme.md#Способ-решения)  
+[3. Этапы работы над проектом](https://github.com/Serg-NSD/SkillFactory-Data_Science/blob/main/Project-4/readme.md#Этапы-работы-над-проектом)  
 
 ## Постановка задачи проекта
 -----------------------------
