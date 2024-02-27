@@ -19,7 +19,7 @@ Practical works folder:
   
 [Practical work "Analysis of the gross domestic product of the Republic of Ghana"](https://github.com/Serg-NSD/SkillFactory-Data_Science/tree/f203d4758eaa8c4a2205fdc5f1ea6e5e300350e1/Practical%20works)
 __________________________________  
-Additional folder:  
+Additional folder:   
   
-Visual_notebook-2.ipynb ─ my mentor's lessons on matplotlib. 
-Auto_arima.ipynb ─ my translation of the article about auto ARIMA
+Visual_notebook-2.ipynb ─ my mentor's lessons on matplotlib. [move](https://github.com/Serg-NSD/SkillFactory-Data_Science/blob/335309ddd3e5a9f2071757c5a9cd1e1778f38553/addition/Visual_notebook-2.ipynb)  
+Auto_arima.ipynb ─ my translation of the article about auto ARIMA. [move](https://github.com/Serg-NSD/SkillFactory-Data_Science/blob/335309ddd3e5a9f2071757c5a9cd1e1778f38553/addition/auto_arima.ipynb)  
