@@ -9,8 +9,13 @@
 * [Project 4 "Machine learning in the banking industry"](https://github.com/Serg-NSD/SkillFactory-Data_Science/tree/4adadd3f975d1dc101172a7812d264df9761659f/Project-4)
 * [Project 5 "New York City Taxi Trip Duration"](https://github.com/Serg-NSD/SkillFactory-Data_Science/tree/4adadd3f975d1dc101172a7812d264df9761659f/Project-5)
 * [Project 6 “Segmentation of customers of an online gift store”](https://github.com/Serg-NSD/SkillFactory-Data_Science/tree/4adadd3f975d1dc101172a7812d264df9761659f/Project-6)
-<br>
 
+__________________________________
+Final Project folder:  
+
+[The final project of the first year of study: "temperature prediction using linear regression, time series and neural network (TensorFlow library)"](https://github.com/Serg-NSD/SkillFactory-Data_Science/tree/657f4bc1a283d91494fab2597b241d837ac42e73/Final%20Project)
+
+__________________________________
 Practical works folder:  
   
 Practical work "Analysis of the gross domestic product of the Republic of Ghana"
