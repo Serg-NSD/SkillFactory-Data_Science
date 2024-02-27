@@ -10,7 +10,10 @@
 * [Project 5 "New York City Taxi Trip Duration"](https://github.com/Serg-NSD/SkillFactory-Data_Science/tree/4adadd3f975d1dc101172a7812d264df9761659f/Project-5)
 * [Project 6 “Segmentation of customers of an online gift store”](https://github.com/Serg-NSD/SkillFactory-Data_Science/tree/4adadd3f975d1dc101172a7812d264df9761659f/Project-6)
 <br>
-<br>
+
+Practical works folder:  
+  
+Practical work "Analysis of the gross domestic product of the Republic of Ghana"
   
 Additional folder:  
   
