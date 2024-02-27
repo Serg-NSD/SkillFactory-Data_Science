@@ -13,8 +13,7 @@
 __________________________________
 Final Project folder:  
 
-[The final project of the first year of study: "temperature prediction using linear regression, time series and neural network (TensorFlow library)"](https://github.com/Serg-NSD/SkillFactory-Data_Science/tree/657f4bc1a283d91494fab2597b241d837ac42e73/Final%20Project)
-
+[The final project of the first year of study: "temperature prediction using linear regression, time series and neural network (TensorFlow library)"](https://github.com/Serg-NSD/SkillFactory-Data_Science/blob/657f4bc1a283d91494fab2597b241d837ac42e73/Final%20Project/diplom_project.ipynb)
 __________________________________
 Practical works folder:  
   
