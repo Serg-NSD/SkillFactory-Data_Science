@@ -17,9 +17,9 @@ Final Project folder:
 __________________________________
 Practical works folder:  
   
-Practical work "Analysis of the gross domestic product of the Republic of Ghana"
-  
+[Practical work "Analysis of the gross domestic product of the Republic of Ghana"](https://github.com/Serg-NSD/SkillFactory-Data_Science/tree/f203d4758eaa8c4a2205fdc5f1ea6e5e300350e1/Practical%20works)
+__________________________________  
 Additional folder:  
   
-Visual_notebook-2.ipynb ─ my mentor's lessons on matplotlib.  
+Visual_notebook-2.ipynb ─ my mentor's lessons on matplotlib. 
 Auto_arima.ipynb ─ my translation of the article about auto ARIMA
